@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalPoint.Api", "RentalPoint.Api\RentalPoint.Api.csproj", "{CA8DD36A-4037-42B7-BC38-15F9C9643F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalPoint.Services", "RentalPoint.Services\RentalPoint.Services.csproj", "{60DBD06F-0DB4-4523-830F-E10A65F556AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalPoint.Data", "RentalPoint.Data\RentalPoint.Data.csproj", "{12D8A794-8B4C-4B4B-8F53-BF5938466CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA8DD36A-4037-42B7-BC38-15F9C9643F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8DD36A-4037-42B7-BC38-15F9C9643F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8DD36A-4037-42B7-BC38-15F9C9643F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8DD36A-4037-42B7-BC38-15F9C9643F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DBD06F-0DB4-4523-830F-E10A65F556AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DBD06F-0DB4-4523-830F-E10A65F556AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DBD06F-0DB4-4523-830F-E10A65F556AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DBD06F-0DB4-4523-830F-E10A65F556AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D8A794-8B4C-4B4B-8F53-BF5938466CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D8A794-8B4C-4B4B-8F53-BF5938466CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D8A794-8B4C-4B4B-8F53-BF5938466CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D8A794-8B4C-4B4B-8F53-BF5938466CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
